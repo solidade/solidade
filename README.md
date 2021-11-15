@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou Miqueias Solidade, sou estudante de programação.
-- 👀 Eu tenho interesse em trabalhar com dados e cybersegurança.
-- 🌱 Atualmente estou aprendo a linguagem Javascrip, e também git e sql.
-- 💞️ Pretendo em seguida aprender fremeworks, como o Pandas, por exemplo, Python e também outras linguagens de programação.
+- 👀 Eu tenho interesse em backend, dados e cybersegurança. Muita coisa, eu sei, mas vou aos pouquinhos experimentando!
+- 🌱 Atualmente estou aprendo a linguagem Python, e também git e sql.
+- 💞️ Pretendo em seguida aprender fremeworks, como o Pandas, por exemplo, e também outras linguagens de programação.
 - 📫 Meu email para contato é: solidade.s.p@gmail.com
 
 <!---
